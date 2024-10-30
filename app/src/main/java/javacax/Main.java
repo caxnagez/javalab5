@@ -55,7 +55,7 @@ public class Main {
         Set<Integer> uniqueSet = new HashSet<>(list);
         list1.clear();
         list1.addAll(uniqueSet);
-        System.out.println("УниКАЛьные: " + list1);
+        System.out.println("Уникальные: " + list1);
         // zadanie 1 h
         Set<Integer> duplicatesSet = new HashSet<>();
         List<Integer> duplicatesList = new ArrayList<>();
@@ -88,7 +88,7 @@ public class Main {
         humans.add(new Human("Pudge", "Hooking", 72));
         humans.add(new Human("TheReal", "SmallMan", 1));
         humans.add(new Human("Ugmubhem", "Osas", 55));
-        humans.add(new Human("Tayler", "TaynoDernull", 32));
+        humans.add(new Human("Tayler", "Derden", 32));
         humans.add(new Human("TheReal", "OldMan", 999));
 
         // zadanie 3 a
